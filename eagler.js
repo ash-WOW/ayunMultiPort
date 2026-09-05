@@ -8,8 +8,8 @@ const crypto = require('crypto');
 const Jimp = require('jimp');
 
 const listenPort = 25565;
-const mcHost = "localhost";
-const mcPort = 25569;
+const mcHost = "const mcHost = "SupercoolSMP-cp4A.aternos.me";
+const mcPort = 34132;
 const serverName = "ayunMultiPort Server";
 const serverMotd = ["line1", "line2"];
 const serverMaxPlayers = 20;
